@@ -1,4 +1,4 @@
-{"1":[{"name":"6265 SW Timberland Pl","city":"Beaverton","state":"Oregon","zip":"97007",
-                 "country":"United States","latitude":"45.475164","longitude":"-122.850906"}],
-"2":[{"name":"6 Westridge Dr","city":"Lake Oswego","state":"Oregon","zip":"97034",
-                 "country":"United States","latitude":"45.392805","longitude":"-122.715769"}]}
+{"1":[{"name":"6265 SW Timberland Pl","city__c":"Beaverton","state__c":"Oregon","zip__c":"97007",
+                 "country__c":"United States","latitude__c":"45.475164","longitude__c":"-122.850906"}],
+"2":[{"name":"6 Westridge Dr","city__c":"Lake Oswego","state__c":"Oregon","zip__c":"97034",
+                 "country__c":"United States","latitude__c":"45.392805","longitude__c":"-122.715769"}]}
