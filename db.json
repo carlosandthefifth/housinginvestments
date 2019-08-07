@@ -1,1 +1,4 @@
-{"investments":[{"id":1,"name":"6265 SW Timberland Pl","city":"Beaverton","state":"Oregon","zip":"97007","country":"United States","latitude":"45.475164","longitude":"-122.850906"}]}
+{"1":[{"id":1,"name":"6265 SW Timberland Pl","city":"Beaverton","state":"Oregon","zip":"97007",
+                 "country":"United States","latitude":"45.475164","longitude":"-122.850906"}],
+"2":[{"id":2,"name":"6 Westridge Dr","city":"Lake Oswego","state":"Oregon","zip":"97034",
+                 "country":"United States","latitude":"45.392805","longitude":"-122.715769"}]}
