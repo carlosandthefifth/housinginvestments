@@ -1,16 +1,13 @@
 {
-  "posts":[
+  "investments":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "Name" : "6265 SW Timberland Pl",
+      "City": "Beaverton",
+      "State":"Oregon",
+      "Zip":"97007",
+      "Country":"United States",
+      "Latitidude:" : "45.475164",
+      "Longitude":"-122.850906"
     }
   ]
 }
