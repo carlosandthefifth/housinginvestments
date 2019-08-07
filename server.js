@@ -8,7 +8,6 @@ server.use(middlewares);
 server.use(router);
 
 server.use(jsonServer.defaults);
-server.use('/db', router);
-server.use('/db1', jsonServer.router('1.json'));
+server.use('/db1', router);
 
 server.listen(port);
