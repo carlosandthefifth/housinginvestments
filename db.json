@@ -1,5 +1,5 @@
 {
-  "6265 SW Timberland Pl":[
+  "6265 SW Timberland Pl":
     {
       "City": "Beaverton",
       "State":"Oregon",
@@ -8,5 +8,4 @@
       "Latitidude:" : "45.475164",
       "Longitude":"-122.850906"
     }
-  ]
 }
