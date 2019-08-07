@@ -1,11 +1,11 @@
 {
   "6265 SW Timberland Pl":
-    {
+    [
       "City": "Beaverton",
       "State":"Oregon",
       "Zip":"97007",
       "Country":"United States",
       "Latitidude:" : "45.475164",
       "Longitude":"-122.850906"
-    }
+    ]
 }
