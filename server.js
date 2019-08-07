@@ -7,4 +7,8 @@ const port = process.env.PORT || 3000;
 server.use(middlewares);
 server.use(router);
 
+server.use(jsonServer.defaults);
+server.use('/db', router);
+server.use('/db/1', jsonServer.router('1.json'))
+
 server.listen(port);
