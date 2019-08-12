@@ -1,5 +1,5 @@
 {"1":{"name":"19319 Calle Juanito","city__c":"Murrieta","state__c":"California","zipcode__c":"92562",
                  "country__c":"United States","Location__Latitude__s":33.520700,"Location__Longitude__s":-117.323801,
-      URL="https://www.youtube.com/watch?v=5-cWMqIv3q8"},
+      "URL":"https://www.youtube.com/watch?v=5-cWMqIv3q8"},
 "2":{"name":"6 Westridge Dr","city__c":"Lake Oswego","state__c":"Oregon","zipcode__c":"97034",
                  "country__c":"United States","Location__Latitude__s":45.392805,"Location__Longitude__s":-122.715769}}
