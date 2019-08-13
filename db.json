@@ -17,7 +17,7 @@
                  "country__c":"United States","Location__Latitude__s":42.659321,"Location__Longitude__s":-73.7762205,"price":1150000,
      "url":"https://www.youtube.com/watch?v=sWMlrTOI8P0"},
 "7":{"name":"45 Ash St","city__c":"Denver","state__c":"Colorado","zipcode__c":" 80220",
-                 "country__c":"United States","Location__Latitude__s":39.7170034,"Location__Longitude__s":,-104.9408687,"price":85000000,
+                 "country__c":"United States","Location__Latitude__s":39.7170034,"Location__Longitude__s":-104.9408687,"price":85000000,
      "url":"https://www.youtube.com/watch?v=bA2bFwPZN_c"},
 "8":{"name":"5415 Mohican Rd","city__c":"Bethesda","state__c":"Maryland","zipcode__c":"20816",
                  "country__c":"United States","Location__Latitude__s":38.9608781,"Location__Longitude__s":-77.1342788,"price":3895000,
